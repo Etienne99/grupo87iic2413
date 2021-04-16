@@ -1,0 +1,1 @@
+Nota: Se incluyó el archivo entrega1.sqlite3 porque primero creamos las tablas fuera del servidor y las guardamos en ese archivo. Luego nos dimos cuenta de que era mejor hacer todo en el servidor, así que de todas formas el archivo entrega1.sqlite 3 no afecta en lo que se pedía en el enunciado.
