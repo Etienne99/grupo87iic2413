@@ -1,0 +1,14 @@
+               List of relations
+ Schema |       Name        | Type  |  Owner   
+--------+-------------------+-------+----------
+ public | comestibles       | table | postgres
+ public | compras           | table | postgres
+ public | no_comestibles    | table | postgres
+ public | personal          | table | postgres
+ public | tiendas           | table | postgres
+ public | tiendas_personal  | table | postgres
+ public | tiendas_productos | table | postgres
+ public | usuarios          | table | postgres
+ public | usuarios_compras  | table | postgres
+(9 rows)
+
